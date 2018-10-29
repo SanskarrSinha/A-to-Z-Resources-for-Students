@@ -23,6 +23,9 @@
 ### g.Institute for Artificial Intelligence (c++,python)
 
 ### h.Metasploit (ruby,python,c)
+
+### i.Coala (Python)
+
 # COMING SOON
 
 - TODO
